@@ -4,35 +4,20 @@
   <block id="76461c921fd953874545c28924c497a5" category="doc">docs.netapp.comサイトについて</block>
   <block id="55ff05b2fa7e1012dea362f024c523d4" category="video-title">サイトツアー</block>
   <block id="f24f9b19509f19811927c2c5108eb69f" category="example-title">トランスクリプト</block>
-  <block id="001451b8eac2d5ba56f77c33e6058082" category="list-text">&amp;#91;0:01&amp;#93;</block>
   <block id="4ade6453893cfbe2522908af64833211" category="list-text">こんにちは。docs.netapp.comチームのベンですこのビデオでは、コンテンツの視聴体験を最大限に活用するために、docs.netapp.comで利用可能な機能について説明します。</block>
-  <block id="0563c9ce91e1c11d6ad29a8969b5f33a" category="list-text">&amp;#91;0:12&amp;#93;</block>
   <block id="0e211f38bb42111667c024142b66f04f" category="list-text">探しているコンテンツを見つけることから始めましょう。ドキュメントサイトを入力したら、サイトの左側を使用してナビゲートできます。</block>
-  <block id="8f93d656e679ff035d090620e75b413c" category="list-text">&amp;#91;0:20&amp;#93;</block>
   <block id="8dccc52d59eeb736d56dd1b6b44802c9" category="list-text">複数のバージョンのドキュメントがある場合は、使用している製品のバージョンに対応するドキュメントを選択できます。</block>
-  <block id="aa34fdc7e388719caf41006108441b71" category="list-text">&amp;#91;0:28&amp;#93;</block>
   <block id="dd7e3c5a91863520509b8bd47b5fb184" category="list-text">ドキュメントサイト内のコンテンツを検索するには、検索ボックスを使用します。たとえば、ボリューム暗号化の仕組みを確認したいとします。</block>
-  <block id="600e453e197e97d216bb3d993a8a0fb0" category="list-text">&amp;#91;0:36&amp;#93;</block>
   <block id="8e04744bf4ce3a99c048afd6dcc9f44b" category="list-text">ドキュメントを参照する場合は、目次を使用できます。目次は、製品の使用開始や使用などの論理的なグループに編成されています。</block>
-  <block id="df50a755abbfca8d747a3b88f08ae781" category="list-text">&amp;#91;0:45&amp;#93;</block>
   <block id="154b5fdb7571773817017921e46ae33d" category="list-text">別のドキュメントサイトにアクセスしたい場合は、パンくずリストを使用してdocs.netapp.comをナビゲートできます。</block>
-  <block id="3b0992758991e1911574d554d3026cb8" category="list-text">&amp;#91;0:50&amp;#93;</block>
   <block id="31278ba45f6e1d30f6f231f3e5f1a36d" category="list-text">探しているコンテンツを見つけたら、コンテンツを操作するのに役立ついくつかの主要な機能を利用できます。</block>
-  <block id="68c77cb943dbfc9eae43a6815a972242" category="list-text">&amp;#91;0:58&amp;#93;</block>
   <block id="6cb3e320d779a4a61d2879df5bd84e9f" category="list-text">ほとんどのドキュメントサイトには複数の言語が用意されているため、お好みの言語でドキュメントを読むことができます。</block>
-  <block id="3bad7aa8d678bd594b1538b0dd2b86b3" category="list-text">&amp;#91;1:05&amp;#93;</block>
   <block id="1688c88768c109f923e65f29244c8d09" category="list-text">ページに複数のセクションがある場合は、[このページ上]リンクを使用して、探しているコンテンツに直接移動できます。リンクには、ページのどこにいるかも示されます。これは、スクロールしながら進むのに役立ちます。</block>
-  <block id="167973d06e8c4ea7919a95c0c2d227e2" category="list-text">&amp;#91;1:20&amp;#93;</block>
   <block id="731678ea16207e95dd4c230e861e27ce" category="list-text">コンテンツ自体に焦点を当てるために、左右のサイドバーを折りたたむことができます。完了したら、それらを展開してナビゲーションコントロールを再度表示します。</block>
-  <block id="4541b5b3e42f7185d574faa374d10061" category="list-text">&amp;#91;1:33&amp;#93;</block>
   <block id="bc382af4f7df607310494c6a0db0da6d" category="list-text">ドキュメントをオフラインで読む必要がある場合は、ドキュメントサイト全体またはサイト内の個 々 のセクションのPDFをダウンロードできます。</block>
-  <block id="66dc9ca0ecb6d1cde3f5e646f3c1cb4e" category="list-text">&amp;#91;1:41&amp;#93;</block>
   <block id="11a4aef0f88e6d42f746f1e3807e1f0e" category="list-text">NetAppのドキュメントはオープンソースであり、GitHubアカウントを使用したコミュニティへの貢献を可能にするように設計されています。フィードバックを送信して、ドキュメントの更新をリクエストするか、コンテンツを直接編集してください。コンテンツは、マージ前にNetAppコンテンツリードに送信されます。</block>
-  <block id="e2e5b6519329388ecd5fe4124aa00f5e" category="list-text">&amp;#91;1:59&amp;#93;</block>
   <block id="cae12efe5fddc5b227738098a513f050" category="list-text">ネットアップの一部のクラウドサービスのドキュメントサイトには、特定のクラウドプロバイダにドキュメントをフィルタリングできるクラウドプロバイダオプションが表示される場合があります。たとえば、[Microsoft Azure]を選択した場合、環境Azureというコンテンツのみが表示されます。他のクラウドプロバイダのコンテンツは表示されません。</block>
-  <block id="23e64bc66c69ac4a936da68a4a09fae5" category="list-text">&amp;#91;2:18&amp;#93;</block>
   <block id="de57fe86208320d05e4f48a11939d075" category="list-text">タブレット、モバイルデバイス、またはデスクトップからコンテンツにアクセスする可能性があるため、レスポンシブレイアウトを使用して、ドキュメントがどのデバイスでも見栄えがするようにしています。</block>
-  <block id="fd46289ab456ebe6dc0adaa20d398b2b" category="list-text">&amp;#91;2:28&amp;#93;</block>
   <block id="c7f671298576d5432049913e0335f76f" category="list-text">それだけです。これらの機能をご利用いただき、弊社のコンテンツコミュニティにご参加いただきありがとうございます。</block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法的通知</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">著作権に関する声明、商標、特許などにアクセスできます。</block>
@@ -54,4 +39,19 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知ファイルには、ネットアップソフトウェアで使用されるサードパーティの著作権およびライセンスに関する情報が記載されています。</block>
   <block id="a415b3159b192a5228f36d0322ee9f1d" category="doc">docs.netapp.comについて</block>
   <block id="4fbdf2eea8c892890a6818b154ed392b" category="sidebar">サイトについて</block>
+  <block id="ab0c8dbd5eef82178b156e6a11208519" category="list-text">0：01</block>
+  <block id="3c288a98493080fb5576125268a96a7a" category="list-text">0：12</block>
+  <block id="6749c9108af17d9cba1d58f7f4372480" category="list-text">0：20</block>
+  <block id="f27bdb420dd5fcb57008a435b22092aa" category="list-text">0：28</block>
+  <block id="72116ebe035ce7c054a6b42d524f70c7" category="list-text">0：36</block>
+  <block id="a71e1fa92b11b6b44b0f6485b35e5a7b" category="list-text">0：45</block>
+  <block id="d118e8f1307d3c909d5befd2bbecf061" category="list-text">0：50</block>
+  <block id="9f0b04f5c5e91198f90bcd2bd46153f0" category="list-text">0：58</block>
+  <block id="63e443b59148b11d06c60f6a5e52d8f5" category="list-text">1：05</block>
+  <block id="f2e804e45e1dab1163588130bcd0d13e" category="list-text">1：20</block>
+  <block id="4ef6cf20f8916d722987b6cd84691e03" category="list-text">1：33</block>
+  <block id="7d558d84e6be8ad92b5a6d4f9b67513e" category="list-text">1：41</block>
+  <block id="ed014929fa6d1e2a7b2cd335f40c42b6" category="list-text">1：59</block>
+  <block id="371c69895ec495bb0ba900238d0dfde0" category="list-text">2：18</block>
+  <block id="47a2020d68d5f7d8f999b3bf89a03c1a" category="list-text">2：28</block>
 </blocks>
