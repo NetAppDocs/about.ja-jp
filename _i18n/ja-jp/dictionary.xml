@@ -54,4 +54,40 @@
   <block id="ed014929fa6d1e2a7b2cd335f40c42b6" category="list-text">1：59</block>
   <block id="371c69895ec495bb0ba900238d0dfde0" category="list-text">2：18</block>
   <block id="47a2020d68d5f7d8f999b3bf89a03c1a" category="list-text">2：28</block>
+  <block id="7fdfed3604c999e7ce591c35bf9ca1e3" category="summary">docs.netapp.comでは、AIを活用したジェネレーティブアシスタントを務めています。デルテレフォンアドバイザーは、NetApp製品に関する質問に回答するように設計されています。たとえば、NetAppのストレージ効率化機能や、マルチクラウド環境におけるバックアップとリカバリのベストプラクティスに関する質問に対応できます。</block>
+  <block id="47fcebf3dc368732bbe8a2eaabac815e" category="doc">NetAppジェネレーティブAIアシスタント利用規約</block>
+  <block id="7cfd7e3238c2a852ea2f82c03119feb6" category="paragraph">このDocのベータ版では、エラーや不正確さが含まれている可能性のあるアルゴリズムで生成されたコンテンツが作成されます。生成されたすべてのコンテンツは、開始点としてのみ使用する必要があります。必ずネットアップの公式製品ドキュメントを参照して、ドキュメントの回答を確認してください。ドキュメントが生成した回答に依存することはお客様自身の責任であり、NetAppは、ドキュメントが生成した回答のみを使用することによって発生する可能性のある問題や問題については責任を負いません。</block>
+  <block id="229eb04083e06f419f9ac494329f957d" category="section-title">条件</block>
+  <block id="ed9f05b554b94c74deffa021f0c45818" category="paragraph">DOCを使用することにより、コンテンツおよび回答を生成する際に、以下の規則および規定を遵守することに同意したものとみなされます。これらの条件を遵守しないと、Docsの使用がブロックされる可能性があります。</block>
+  <block id="1492b263677041177b75767d2dbc780b" category="list-text">害、虐待、暴力、または欺瞞を引き起こす可能性のあるコンテンツを作成するためにDocを使用しようとしないでください。</block>
+  <block id="977674521e01e951ee7b77e735caa1d1" category="list-text">意図された目的の範囲外の会話にドキュメントを関与させたり、NetApp製品以外の質問に対する回答を得たりしないでください。</block>
+  <block id="82ec2cd6fda87713f588da75c3b1d0ed" category="section-title">機能</block>
+  <block id="a8d0ffdd3caa441024af945401c069ea" category="list-text">ドクは象ではなく、かなりの記憶力を持っている。</block>
+  <block id="82ccd5b48bcf83ad98f41b4183b07184" category="paragraph">ほとんどの場合、Docはあなたが話し合っていることを覚えており、注意を払っています。ドキュメントが会話のトラックを失った場合は、同じチャットセッションで新しい会話を開始できます。</block>
+  <block id="bfef452160ef7b86bf242e0d2bdd357c" category="list-text">ドクは熱心な読者だ。</block>
+  <block id="0e355d29fd3887f49661d3802e1ea25a" category="paragraph">私たちのドキュメントがdocs.netapp.comで公開されるたびに(そしてそれは多くのことが起こります)、Docはそれらを読み、それらを参照して応答を生成することができます。ドクの学習の速さには驚かされる。</block>
+  <block id="2a7bcb95eb0d0f227b37fb6ec8680c19" category="list-text">デルテレフォンアドバイザーはコンサルタントです。</block>
+  <block id="61f8e1f531f123a4df97c1f7782918c8" category="paragraph">DOCは、あなたが尋ねた質問に加えて、あなたが尋ねたいと思うかもしれない質問の提案を提供します。</block>
+  <block id="1408f478bd58d496e88744dadf1a02b1" category="list-text">ドクはコミュニケーションをとっています。</block>
+  <block id="d0ce116c1cb9fcbf3cb66f15552cce02" category="paragraph">デルテレフォンアドバイザーは、回答をどのように生成するかについての洞察を共有し、質問の言い換えをする機会を提供します。</block>
+  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="section-title">制限事項</block>
+  <block id="8c9258587429e6e6438d30caf456ff3a" category="list-text">NetApp製品に複数のバージョンのドキュメントがある場合、ドキュメントは回答を生成するために最新バージョンのみを参照します。</block>
+  <block id="ea0bceffd7bdc127834a19dba6a4000c" category="list-text">ベータ版では、ドキュメントがすべてのNetApp製品のすべてのドキュメントを参照しているわけではありません。ドキュメントとは、回答の生成に役立つONTAPおよびBlueXP  ドキュメントを含むが、これらに限定されないドキュメントのサブセットのみを指します。</block>
+  <block id="4634b38da377884324963fff9cf5bd2f" category="list-text">ドキュメントは他の言語で回答を提供できますが、ドキュメントは英語以外のバージョンのNetApp製品ドキュメントを読んでいません。できるだけ正確な情報を得るために、必ずドキュメントの回答を英語で確認してください。</block>
+  <block id="a0d4cc0f54602c3f247c72f15a7d2dbf" category="section-title">ヒント</block>
+  <block id="55014c9dfa0b6fb12f159a872f65dc2a" category="list-text">ドクは具体的な質問が大好きです。</block>
+  <block id="39af031d661a8d60c6eb934145542f88" category="paragraph">DOCでは、製品名、インターフェイス（GUIやAPIなど）、バージョンを明示的に指定すると、より適切な応答が得られます。例：_ ONTAP 9.8からONTAP 9.12.1にアップグレードするには、System Managerでどのような手順に従う必要がありますか？_</block>
+  <block id="ae5ba765952a9c408e513612743afd2d" category="list-text">何かをする方法を学ぶ必要がありますか?</block>
+  <block id="da5f06b84806d0f43edbcdf8ab9140e3" category="paragraph">手順を含めるようにDocに依頼することを検討します。Doc_インターネットなしでBlueXP  Connectorをインストールするにはどうすればよいですか?_質問_インターネットなしでBlueXP  Connectorをインストールするには、どのような手順を実行する必要がありますか?_</block>
+  <block id="1fb87efde9d27c81852aef738416fea5" category="list-text">簡単な質問をする。</block>
+  <block id="56a8772e302d94cfd17246eecc01b02a" category="paragraph">複雑な質問をする必要がある場合は、それを小さな質問に分割します(これはチェーン質問と呼ばれることがあります)。チャットセッション中、Docは注意を払い、あなたが尋ねた質問を覚えています。</block>
+  <block id="546f372fd0732757db387209bc7e5e4e" category="paragraph">Doc _ BlueXP  でランサムウェア対策とバックアップスケジュールを設定するにはどうすればよいですか?_ try _ BlueXP  でランサムウェア対策を設定する手順は何ですか?_ and _ BlueXP  でバックアップスケジュールを設定する手順は何ですか?_</block>
+  <block id="f2e25aa9036d6798312b7ccb5891aa13" category="list-text">引用符を使用して、Docが誤って解釈する可能性のある複数の単語のフレーズに注意を払う必要がある場合を明確にします。</block>
+  <block id="c2831909c9ecc0befad064d2ee8566ff" category="paragraph">たとえば、Doc _ Storage EfficiencyはONTAPでどのように計算されますか?_ Storage Efficiencyについて質問していると、関連性のない2つの単語として考えられる可能性があります。お客様がStorage Efficiency（Storage Efficiencyという概念）について尋ねていることを確実にDocが理解できるように、このフレーズを引用符で囲んで次のように囲みます。_ ONTAPで「Storage Efficiency」はどのように計算されますか？_</block>
+  <block id="af86dd4b829e0feb137a94ed8e9ec7eb" category="paragraph">人間と会話している場合は、フレーズを強調したり、エアクォートを使用したり、区別を明確にする何らかの方法でジェスチャーを使用したりする可能性があります。二重引用符は、あなたが話していることをDocが理解するのに役立つジェスチャーであると考えてください。</block>
+  <block id="e423d49b947f8deb0f39c1fc9aa13006" category="list-text">回答後、Docはどのように回答を生成したかについての洞察を提供します。興味を持ってください。</block>
+  <block id="4ad038ec67eddd3dd262b131a2914027" category="paragraph">質問する際には、さまざまなパターンやアプローチを試してみてください。目的の結果が得られない場合は、質問を言い換えてみてください。</block>
+  <block id="bea4c2c8eb82d05891ddd71584881b56" category="section-title">フィードバック</block>
+  <block id="39f370d8d247a2c0eb7047953bdd4740" category="paragraph">私たちは、Docsの継続的な改善に取り組んでいます。Doc'sチャットウィンドウ内でフィードバックを送信してください。Doc'sの回答が正確で有用であるか、不完全であるか、または何らかの形で不十分であるかどうかをお知らせください。また、DOCの能力や回答に関する質問や懸念がある場合は、ng-doccoments@netapp.com [お問い合わせ]までメールでお問い合わせください。</block>
+  <block id="043395774d0b5e5fa6d8e5cd9b8ce5a2" category="sidebar">ドキュメントについて（AIアシスタント）</block>
 </blocks>
