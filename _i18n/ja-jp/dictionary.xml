@@ -85,7 +85,6 @@
   <block id="e423d49b947f8deb0f39c1fc9aa13006" category="list-text">回答後、Docはどのように回答を生成したかについての洞察を提供します。興味を持ってください。</block>
   <block id="4ad038ec67eddd3dd262b131a2914027" category="paragraph">質問する際には、さまざまなパターンやアプローチを試してみてください。目的の結果が得られない場合は、質問を言い換えてみてください。</block>
   <block id="bea4c2c8eb82d05891ddd71584881b56" category="section-title">フィードバック</block>
-  <block id="39f370d8d247a2c0eb7047953bdd4740" category="paragraph">私たちは、Docsの継続的な改善に取り組んでいます。Doc'sチャットウィンドウ内でフィードバックを送信してください。Doc'sの回答が正確で有用であるか、不完全であるか、または何らかの形で不十分であるかどうかをお知らせください。また、DOCの能力や回答に関する質問や懸念がある場合は、ng-doccoments@netapp.com [お問い合わせ]までメールでお問い合わせください。</block>
   <block id="043395774d0b5e5fa6d8e5cd9b8ce5a2" category="sidebar">ドキュメントについて（AIアシスタント）</block>
   <block id="defcec3c682659592679e8272cd2e9b5" category="summary">docs.netapp.comでは、AIを活用したジェネレーティブアシスタントを務めています。ドキュメントは、docs.jp.comで公開されているコンテンツを使用して、NetApp製品に関する質問に回答するように設計されてNetAppいます。たとえば、NetAppのストレージ効率化機能や、マルチクラウド環境におけるバックアップとリカバリのベストプラクティスに関する質問に対応できます。</block>
   <block id="3ac8c79d6a5b493f652fb0b8461750c8" category="doc">NetAppジェネレーティブAIを活用したアシスタントの利用規約</block>
@@ -93,8 +92,9 @@
   <block id="da83087ce1e5e3d3a31ddadde291fcd7" category="doc">NetAppジェネレーティブAIを活用したアシスタントの概要</block>
   <block id="402fe4efa3c4cc0d6ede3f565f0bc06d" category="paragraph">NetApp生成AIアシスタント「Doc」はdocs.jpから入手できますNetApp。デルは、このサイトで公開されているコンテンツのみを使用して、NetApp製品に関する質問に回答します。デルテレフォンアドバイザーは、他のNetAppサイトやパブリックインターネットのコンテンツを使用して質問に回答することはありません。</block>
   <block id="74f4a4764082dcf42186f10b47664954" category="list-text">ドキュメントは、docs.jp.comで公開されたコンテンツのみを使用してNetAppアンサーを生成します。デルテレフォンアドバイザーは、他のNetApp Webサイトで公開されているコンテンツから回答を生成しません。</block>
-  <block id="9b0e72a3de618b5a1f6d4ebdecc32134" category="list-text">ベータ版では、ドキュメントがすべてのNetApp製品のすべてのドキュメントを参照しているわけではありません。ドキュメントとは、回答の生成に役立つONTAP、BlueXP 、StorageGRID、Keystone、SnapCenterのドキュメントを含むがこれらに限定されない、一部のドキュメントのみを指します。ドキュメントが知らない情報をお探しの場合は、mailto：ng-doccoments @ NetApp .com [お知らせください]。</block>
   <block id="44c830e5279537009e37c5f1d7e33426" category="list-text">デルテレフォンアドバイザーは、お客様が興味を持っている製品について想定しているページを参照することはありません。製品名とバージョンについては、できるだけ具体的に質問してください。</block>
   <block id="ffa82bc3c7eca2bab1fae02c80ab8216" category="sidebar">機能と制限事項</block>
   <block id="b5b7b6c5b5f08dd62ed2dc52c7a4cfe8" category="sidebar">利用規約</block>
+  <block id="858a13328205a50b4d4ea7a8e790b8b7" category="paragraph">私たちは、Docsの継続的な改善に取り組んでいます。Doc'sチャットウィンドウ内でフィードバックを送信してください。Doc'sの回答が正確で有用であるか、不完全であるか、または何らかの形で不十分であるかどうかをお知らせください。ドキュメントの機能や回答に関してご質問や懸念がある場合は、mailto：ng-doccomments @ NetApp .com [お問い合わせ]までご連絡ください。</block>
+  <block id="9ad4361a0d51af27ebbe2cc42d8b064b" category="list-text">ベータ版では、ドキュメントがすべてのNetApp製品のすべてのドキュメントを参照しているわけではありません。ドキュメントとは、回答の生成に役立つONTAP、BlueXP 、StorageGRID、Keystone、SnapCenterのドキュメントを含むがこれらに限定されない、一部のドキュメントのみを指します。ドキュメントが知らない情報をお探しの場合は、mailto：ng-doccomments @ NetApp .com [お知らせください]。</block>
 </blocks>
