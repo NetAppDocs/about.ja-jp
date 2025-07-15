@@ -72,8 +72,6 @@
   <block id="78d84dc38711d923fa1dc1351e7e5a90" category="section-title">範囲と制限事項</block>
   <block id="e02e8d81102c18e5ac8688f45881ccb4" category="paragraph">ドキュメントは、docs.jp.comに公開されている一部のコンテンツに基づいて質問にのみ回答できますNetApp。</block>
   <block id="ac9a966db57853c0bb3b03769804fffe" category="admonition">このベータ段階では、ドキュメントはすべてのdocs.doc.com NetAppコンテンツのトレーニングを受けていません。デルテレフォンアドバイザーは、ONTAP、BlueXP 、StorageGRID、Keystone、SnapCenterなどのコンテンツに関する質問に答えることができます。ドキュメントにない情報が必要な場合は、お知らせください。</block>
-  <block id="5cce09c2cd6acff384726d4c5913b10a" category="list-text">製品バージョンを指定しない場合、Docは最新の公開バージョンに基づいて質問に答えます。必要に応じて、質問に以前のバージョンを指定できます。</block>
-  <block id="ba2e07590de589acb6827cadda0ba814" category="list-text">あなたが質問をするとき、先生はあなたがどのページにいるかを知りません。最適な結果を得るには、製品名とバージョンを指定してください。</block>
   <block id="d3aab3cd74c1c5868499ccc53ebe0a75" category="list-text">ドキュメントは、docs.jp.comでサポートされている言語でチャットできますNetAppが、英語以外のバージョンではトレーニングされていません。</block>
   <block id="e4a95039ccdfb7b85c839ab71de68d99" category="section-title">適切なプロンプトを書く</block>
   <block id="b0d6ece087301f0de0e69fb8d2e2b5ec" category="paragraph">Docsを最大限に活用するには、以下のヒントに従ってください。</block>
@@ -98,4 +96,6 @@
   <block id="e10d7022bccbf44b070810cd5909184e" category="list-text">チャット履歴をクリアする</block>
   <block id="3508984ba8ee3276c733e57293128c50" category="list-text">トピックを変更する場合は、新規開始時にチャットをクリアしてください。Docは以前の質問を覚えているため、トピックの変更によって予期しない結果が生じる可能性があります。</block>
   <block id="5ac85d6acb2d0e353a29dbf8a61e4a47" category="paragraph">お寄せいただいたフィードバックは、Docの対応の改善に役立てさせていただきます。ドキュメントチャットウィンドウのフィードバックツールを使用して、回答が正確で有用であるかどうか、または改善が必要であるかどうかをお知らせします。ご質問やご意見がございましたら、mailto：NetApp .comまでEメールでお問い合わせください。</block>
+  <block id="430fdc9d9149c8cc43c466b7320e92b9" category="list-text">Doc は、製品の最新の公開バージョンのみに基づいて質問に回答します。例えば、製品のバージョン 1.0 とバージョン 2.0 のドキュメントがある場合、Doc は最新のバージョン 2.0 のドキュメントのみを参照します。</block>
+  <block id="9f1b245deb3e474f47cde2de8fa217be" category="list-text">最良の結果を得るには、製品名を常に具体的に指定してください。Docは質問時にあなたがどのページにいるかを認識していますが、これは回答を作成する際にDocが考慮するいくつかの要素の1つにすぎません。</block>
 </blocks>
