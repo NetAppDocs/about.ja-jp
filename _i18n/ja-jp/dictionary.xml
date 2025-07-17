@@ -67,11 +67,9 @@
   <block id="ffa82bc3c7eca2bab1fae02c80ab8216" category="sidebar">機能と制限事項</block>
   <block id="b5b7b6c5b5f08dd62ed2dc52c7a4cfe8" category="sidebar">利用規約</block>
   <block id="858a13328205a50b4d4ea7a8e790b8b7" category="paragraph">私たちは、Docsの継続的な改善に取り組んでいます。Doc'sチャットウィンドウ内でフィードバックを送信してください。Doc'sの回答が正確で有用であるか、不完全であるか、または何らかの形で不十分であるかどうかをお知らせください。ドキュメントの機能や回答に関してご質問や懸念がある場合は、mailto：ng-doccomments @ NetApp .com [お問い合わせ]までご連絡ください。</block>
-  <block id="0d170dccad1565dabf52d4a404e9f01e" category="summary">DOCは、docs.jp.comで利用可能なNetApp AIアシスタントですNetApp。このサイトのコンテンツのみを使用して質問に回答します。DOCは、他のNetAppサイトやパブリックインターネットのコンテンツを使用して質問に回答しません。</block>
   <block id="6179d3ef872af4eb960f4c34232845fc" category="paragraph">デルテレフォンアドバイザーは、以前の質問から回答を作成し、追加の質問を提案し、それがどのように回答を生成するかを説明できます。これにより、NetAppのドキュメントをナビゲートするための便利なツールとなります。</block>
   <block id="78d84dc38711d923fa1dc1351e7e5a90" category="section-title">範囲と制限事項</block>
   <block id="e02e8d81102c18e5ac8688f45881ccb4" category="paragraph">ドキュメントは、docs.jp.comに公開されている一部のコンテンツに基づいて質問にのみ回答できますNetApp。</block>
-  <block id="ac9a966db57853c0bb3b03769804fffe" category="admonition">このベータ段階では、ドキュメントはすべてのdocs.doc.com NetAppコンテンツのトレーニングを受けていません。デルテレフォンアドバイザーは、ONTAP、BlueXP 、StorageGRID、Keystone、SnapCenterなどのコンテンツに関する質問に答えることができます。ドキュメントにない情報が必要な場合は、お知らせください。</block>
   <block id="d3aab3cd74c1c5868499ccc53ebe0a75" category="list-text">ドキュメントは、docs.jp.comでサポートされている言語でチャットできますNetAppが、英語以外のバージョンではトレーニングされていません。</block>
   <block id="e4a95039ccdfb7b85c839ab71de68d99" category="section-title">適切なプロンプトを書く</block>
   <block id="b0d6ece087301f0de0e69fb8d2e2b5ec" category="paragraph">Docsを最大限に活用するには、以下のヒントに従ってください。</block>
@@ -94,8 +92,9 @@
   <block id="bd6aea123f1cd8db72d8427cac215429" category="list-text">Docの対応を確認します。</block>
   <block id="afae99cf2edf2a9320bf47938ace301b" category="list-text">回答後、Docはどのように回答を生成したかについての洞察を提供します。これは、あなたが望む結果を得るために質問を絞り込む方法のアイデアを与えることができます。</block>
   <block id="e10d7022bccbf44b070810cd5909184e" category="list-text">チャット履歴をクリアする</block>
-  <block id="3508984ba8ee3276c733e57293128c50" category="list-text">トピックを変更する場合は、新規開始時にチャットをクリアしてください。Docは以前の質問を覚えているため、トピックの変更によって予期しない結果が生じる可能性があります。</block>
-  <block id="5ac85d6acb2d0e353a29dbf8a61e4a47" category="paragraph">お寄せいただいたフィードバックは、Docの対応の改善に役立てさせていただきます。ドキュメントチャットウィンドウのフィードバックツールを使用して、回答が正確で有用であるかどうか、または改善が必要であるかどうかをお知らせします。ご質問やご意見がございましたら、mailto：NetApp .comまでEメールでお問い合わせください。</block>
   <block id="430fdc9d9149c8cc43c466b7320e92b9" category="list-text">Doc は、製品の最新の公開バージョンのみに基づいて質問に回答します。例えば、製品のバージョン 1.0 とバージョン 2.0 のドキュメントがある場合、Doc は最新のバージョン 2.0 のドキュメントのみを参照します。</block>
   <block id="9f1b245deb3e474f47cde2de8fa217be" category="list-text">最良の結果を得るには、製品名を常に具体的に指定してください。Docは質問時にあなたがどのページにいるかを認識していますが、これは回答を作成する際にDocが考慮するいくつかの要素の1つにすぎません。</block>
+  <block id="01dc3c6efffd9690ac127c076429711d" category="summary">docs.netapp.comでは、AIを活用したジェネレーティブアシスタントを務めています。ドキュメントは、docs.jp.comで公開されているコンテンツを使用して、NetApp製品に関する質問に回答するように設計されてNetAppいます。</block>
+  <block id="d713ad74bfa1e904a5cc9d0540fed7ba" category="admonition">ベータ版期間中、Docはdocs.netapp.comに掲載されているほとんどのコンテンツ（すべてではない）を使用して質問に回答します。DocはONTAP、 BlueXP、 StorageGRID、Eシリーズ、 Keystone、 SnapCenterのすべてのドキュメントに精通しており、それらを使用して質問に回答します。一方、Docは一部のレガシー製品のドキュメントに精通していません。例えば、DocはSnapDrive for UNIXのドキュメントを使用して回答することはありません。ベータ版期間中、私たちはDocの知識を洗練させるよう取り組んでいます。Docが持っていない情報が必要な場合は、mailto:ng-doccomments@netapp.comまでご連絡ください。</block>
+  <block id="80fa76d524e6703e34b8caffc21c9017" category="list-text">トピックを変更したい場合（例えば、別の製品について質問したい場合など）、チャット履歴を消去して新しいセッションを開始してください。新しいトピックを開始する前にチャットを消去しないと、正確な結果が得られない可能性があります。</block>
 </blocks>
