@@ -77,14 +77,9 @@
   <block id="dd9caa784c9ca3239781bc659f74ccb8" category="list-text">詳細な質問を作成し、製品名、バージョン、インターフェイスタイプ（GUI、API）を指定します。例：</block>
   <block id="ccf6477a42eb38a386f552adc5eacddd" category="paragraph">ONTAP 9.8からONTAP 9.12.1にアップグレードするには、System Managerでどのような手順を実行する必要がありますか。</block>
   <block id="8558282ecc55619316ab757a333f9464" category="list-text">タスクを完了するための手順を尋ねる。</block>
-  <block id="8f6d686a8622f503fb23b364e0cf71ab" category="list-text">プロセスを完了するための手順を記載するようにDocに依頼します。インターネットを使用せずにBlueXP  コネクタをインストールする方法を_尋ねる代わりに_お試しください：</block>
-  <block id="3ef101280b587102ce939479558aa055" category="paragraph">インターネットを使用せずにBlueXP  Connectorをインストールするには、どのような手順を実行する必要がありますか？</block>
   <block id="275396194b219acfa3d9cda68ae5b93c" category="list-text">複雑な問題を複数のブロックに分割します。</block>
   <block id="35fec273a859ca1e6628462d78db71c3" category="list-text">複雑な質問を小さな質問に分割します（_chaining_とも呼ばれます）。お客様がチャットを続けると、以前の質問を記憶し、より複雑な回答を作成します。</block>
-  <block id="25ef66eb46ca88d1d3a93f83a5769355" category="paragraph">たとえば、Doc_How do I configure ransomware protection and backup schedules in BlueXP ？_ try：</block>
-  <block id="84de75573d217bda8683d66d37460ded" category="paragraph">BlueXP  でランサムウェア対策を設定する手順は何ですか？</block>
   <block id="9f6c2280afbfa54b375e1af3ff06c653" category="paragraph">質問：</block>
-  <block id="af21a9a42fc6c57d40376fa86d55441c" category="paragraph">BlueXP  でバックアップスケジュールを設定する手順を教えてください。</block>
   <block id="d3badbdbe83ec6535fa70220c14ec37e" category="list-text">引用符を使用します。</block>
   <block id="102e31705b2b7aa77cd5895ec984961b" category="list-text">複数の単語を含むフレーズは引用符で囲みます。これは、Docがこのフレーズを単一の概念として認識するのに役立ちます。これは、人間との会話で強調する方法と似ています。</block>
   <block id="8ac004a4dacf3f869c93fa6b2f1f058e" category="paragraph">たとえば、この質問では、ONTAPでストレージ効率はどのように計算されますか？_Docは、「about_storage_and_efficiency_」という2つの関連しない単語を質問していると考えるかもしれません。代わりに次の操作を実行</block>
@@ -95,6 +90,11 @@
   <block id="430fdc9d9149c8cc43c466b7320e92b9" category="list-text">Doc は、製品の最新の公開バージョンのみに基づいて質問に回答します。例えば、製品のバージョン 1.0 とバージョン 2.0 のドキュメントがある場合、Doc は最新のバージョン 2.0 のドキュメントのみを参照します。</block>
   <block id="9f1b245deb3e474f47cde2de8fa217be" category="list-text">最良の結果を得るには、製品名を常に具体的に指定してください。Docは質問時にあなたがどのページにいるかを認識していますが、これは回答を作成する際にDocが考慮するいくつかの要素の1つにすぎません。</block>
   <block id="01dc3c6efffd9690ac127c076429711d" category="summary">docs.netapp.comでは、AIを活用したジェネレーティブアシスタントを務めています。ドキュメントは、docs.jp.comで公開されているコンテンツを使用して、NetApp製品に関する質問に回答するように設計されてNetAppいます。</block>
-  <block id="d713ad74bfa1e904a5cc9d0540fed7ba" category="admonition">ベータ版期間中、Docはdocs.netapp.comに掲載されているほとんどのコンテンツ（すべてではない）を使用して質問に回答します。DocはONTAP、 BlueXP、 StorageGRID、Eシリーズ、 Keystone、 SnapCenterのすべてのドキュメントに精通しており、それらを使用して質問に回答します。一方、Docは一部のレガシー製品のドキュメントに精通していません。例えば、DocはSnapDrive for UNIXのドキュメントを使用して回答することはありません。ベータ版期間中、私たちはDocの知識を洗練させるよう取り組んでいます。Docが持っていない情報が必要な場合は、mailto:ng-doccomments@netapp.comまでご連絡ください。</block>
   <block id="80fa76d524e6703e34b8caffc21c9017" category="list-text">トピックを変更したい場合（例えば、別の製品について質問したい場合など）、チャット履歴を消去して新しいセッションを開始してください。新しいトピックを開始する前にチャットを消去しないと、正確な結果が得られない可能性があります。</block>
+  <block id="7a94655c3185c3d5873fcad78666df26" category="admonition">ベータ フェーズでは、Doc は docs.netapp.com に公開されているコンテンツのほとんど (すべてではない) を使用して質問に答えます。 Doc は、 ONTAP、 NetAppコンソール、 StorageGRID、E シリーズ、 Keystone、およびSnapCenterのすべてのドキュメントに精通しており、それらを使用してこれらの製品に関する質問に答えます。一方、Doc は一部のレガシー製品のドキュメントに精通していません。たとえば、Doc は回答を提供するためにSnapDrive for UNIXドキュメントを使用しません。ベータ版全体を通じて、私たちは Doc の知識を洗練させるべく取り組んでいます。  Doc にない情報が必要な場合は、mailto:ng-doccomments@netapp.com[お知らせください] までご連絡ください。</block>
+  <block id="bac4ca2c5b0ee617baad4e54ade4b552" category="list-text">プロセスを完了するための手順を Doc に含めるように依頼します。  「インターネットを使用せずにNetAppコンソール エージェントをインストールするにはどうすればよいですか?」と質問する代わりに、次のことを試してください。</block>
+  <block id="69718d2bba1514ce4734afe8fa5fba5e" category="paragraph">インターネットなしでNetAppコンソール エージェントをインストールするには、どのような手順に従う必要がありますか?</block>
+  <block id="0e3e10ad9a5cb2a1201539ad3b7ea95f" category="paragraph">たとえば、ドキュメントに「 NetAppコンソールでランサムウェア保護とバックアップ スケジュールを構成するにはどうすればいいですか?」と尋ねる代わりに、次のように試してください。</block>
+  <block id="a4a2ff9e664b60a6bdd6cdbe4fcc1447" category="paragraph">NetAppコンソールでランサムウェア保護を構成する手順は何ですか?</block>
+  <block id="98d95c2ccd0fa7f85c70c1ac654e2ac2" category="paragraph">NetAppコンソールでバックアップ スケジュールを構成する手順は何ですか?</block>
 </blocks>
